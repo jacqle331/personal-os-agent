@@ -16,11 +16,20 @@
 Open `templates/intake-form.template.md` and replace every `{{PLACEHOLDER}}`.
 
 ## 4. Generate your working files
-Copy templates into real files:
-- `templates/soulcode.template.md` -> `soulcode.md`
-- `templates/AGENT_REGISTRY.template.md` -> `AGENT_REGISTRY.md`
-- `templates/CURRENT_CONTEXT.template.md` -> `CURRENT_CONTEXT.md`
-- `templates/SESSION_LOG.template.md` -> `SESSION_LOG.md`
+Run the setup helper — it copies the templates into real files (and won't
+overwrite anything you've already created):
+- Windows: `./scripts/setup.ps1`
+- macOS/Linux: `bash scripts/setup.sh`
+
+This creates:
+- `soulcode.md`
+- `AGENT_REGISTRY.md`
+- `CURRENT_CONTEXT.md`
+- `SESSION_LOG.md`
+
+Then open `templates/intake-form.template.md`, copy it to `intake-form.md`, and
+replace every `{{PLACEHOLDER}}`. See [docs/PLACEHOLDERS.md](./docs/PLACEHOLDERS.md)
+for the full list. All generated files are git-ignored, so your data stays local.
 
 ## 5. Configure Copilot instructions
 Use:

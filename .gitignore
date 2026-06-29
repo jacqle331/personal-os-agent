@@ -1,0 +1,24 @@
+# Generated personal working files — keep these LOCAL, never commit.
+# These are created by copying from templates/ (see START-HERE.md).
+soulcode.md
+AGENT_REGISTRY.md
+CURRENT_CONTEXT.md
+SESSION_LOG.md
+intake-form.md
+
+# Anything in a private/ or local/ folder stays out of version control
+private/
+local/
+
+# Common sensitive/export files
+*.csv
+*.xlsx
+*.bank.*
+.env
+.env.*
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
