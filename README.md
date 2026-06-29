@@ -48,9 +48,21 @@ docs/        setup guides, requirements, placeholder glossary, aliases
 templates/   fill-in templates with placeholders
 scripts/     setup helpers (setup.ps1 / setup.sh)
 examples/    a filled-out reference setup
-assets/      banner + avatar/badge images
+assets/      banner image
 .github/     Copilot and issue templates
 ```
+
+## What's included
+This template is ready to use out of the box:
+- ✅ Fill-in templates for all working files (`templates/`)
+- ✅ One-command setup helper for Windows & macOS/Linux (`scripts/`)
+- ✅ A filled-out example to copy from (`examples/`)
+- ✅ Placeholder glossary and optional launch aliases (`docs/`)
+- ✅ Copilot instructions with cross-session context memory (`.github/`)
+- ✅ Safety-first `.gitignore` that keeps your personal data local
+
+Everything is a starting point — rename agents, change the cadence, add modes,
+and adapt it to your life.
 
 ## How context persists between sessions
 Your agent stays useful over time by reading two files at the start of every
