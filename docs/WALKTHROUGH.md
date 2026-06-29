@@ -12,6 +12,17 @@ You only need **one**. Wherever you see all three commands below, just use yours
 
 ---
 
+## The whole flow in 3 pictures
+
+| 1. Use this template | 2. Run the setup helper | 3. First check-in |
+|:---:|:---:|:---:|
+| ![Step 1 — Use this template](../assets/step-1-use-template.png) | ![Step 2 — Run the setup helper](../assets/step-2-run-setup.png) | ![Step 3 — First check-in](../assets/step-3-checkin.png) |
+| Get your own copy on GitHub | One command creates your files | Your agent remembers and helps |
+
+> The detailed steps below walk through each of these (plus installing the tools).
+
+---
+
 ## Step 1 — Open a terminal
 
 A "terminal" is a text window where you type commands.
