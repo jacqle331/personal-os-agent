@@ -5,8 +5,17 @@
 Build your own AI-powered personal operating system for life, finances, and relationships.
 
 ![Template](https://img.shields.io/badge/Repository-Template-blueviolet)
-![Copilot Ready](https://img.shields.io/badge/Copilot-Ready-00C853)
+![Works with Copilot](https://img.shields.io/badge/Copilot-ready-00C853)
+![Works with Claude Code](https://img.shields.io/badge/Claude%20Code-ready-D97757)
+![Works with Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-ready-4285F4)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+> ### 👋 New here? Start with the **[Step-by-Step Walkthrough](./docs/WALKTHROUGH.md)**
+> It covers everything in plain language — installing tools, getting your copy,
+> and running your first check-in. No experience needed.
+
+**Works with your choice of AI assistant:** GitHub Copilot CLI, Claude Code, or
+Gemini CLI. You only need one.
 
 ## Why this exists
 Most people do not need more goals. They need better systems.  
@@ -32,6 +41,8 @@ This is a **starter template** for setting up:
 - Anyone who wants AI to support real-life execution
 
 ## Quick start
+> First time? Use the **[Step-by-Step Walkthrough](./docs/WALKTHROUGH.md)** instead.
+
 1. Read [docs/REQUIREMENTS.md](./docs/REQUIREMENTS.md)
 2. Read [START-HERE.md](./START-HERE.md)
 3. Complete [SETUP-CHECKLIST.md](./SETUP-CHECKLIST.md)
@@ -44,21 +55,25 @@ This is a **starter template** for setting up:
 
 ## Repository structure
 ```text
-docs/        setup guides, requirements, placeholder glossary, aliases
+docs/        walkthrough, requirements, placeholder glossary, aliases
 templates/   fill-in templates with placeholders
 scripts/     setup helpers (setup.ps1 / setup.sh)
 examples/    a filled-out reference setup
 assets/      banner image
-.github/     Copilot and issue templates
+.github/     Copilot instructions and issue templates
+CLAUDE.md    instructions for Claude Code
+GEMINI.md    instructions for Gemini CLI
 ```
 
 ## What's included
 This template is ready to use out of the box:
+- ✅ Beginner [step-by-step walkthrough](./docs/WALKTHROUGH.md)
+- ✅ Works with **Copilot, Claude Code, or Gemini** (matching instruction files)
 - ✅ Fill-in templates for all working files (`templates/`)
 - ✅ One-command setup helper for Windows & macOS/Linux (`scripts/`)
 - ✅ A filled-out example to copy from (`examples/`)
 - ✅ Placeholder glossary and optional launch aliases (`docs/`)
-- ✅ Copilot instructions with cross-session context memory (`.github/`)
+- ✅ Agent instructions with cross-session context memory
 - ✅ Safety-first `.gitignore` that keeps your personal data local
 
 Everything is a starting point — rename agents, change the cadence, add modes,
