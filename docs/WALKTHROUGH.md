@@ -160,6 +160,9 @@ Run a check-in on your chosen days:
 Want one-word shortcuts (type `life` instead of the full command)? See
 **[ALIASES.md](./ALIASES.md)**.
 
+Want to get more out of your agents? See **[USE-CASES.md](./USE-CASES.md)** to map
+the tasks you already do every week to the agent that can help.
+
 ---
 
 ## Troubleshooting

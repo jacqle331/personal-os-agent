@@ -68,6 +68,7 @@ GEMINI.md    instructions for Gemini CLI
 ## What's included
 This template is ready to use out of the box:
 - ✅ Beginner [step-by-step walkthrough](./docs/WALKTHROUGH.md)
+- ✅ [Use cases](./docs/USE-CASES.md) — map your recurring tasks to your agents
 - ✅ Works with **Copilot, Claude Code, or Gemini** (matching instruction files)
 - ✅ Fill-in templates for all working files (`templates/`)
 - ✅ One-command setup helper for Windows & macOS/Linux (`scripts/`)
@@ -95,3 +96,15 @@ You are responsible for reviewing, testing, and safely applying changes in your 
 No warranties or guarantees are provided. Use at your own risk.
 
 This is not legal, financial, medical, or licensed therapeutic advice.
+
+## Trademarks & affiliation
+This is an independent, community template. It is **not affiliated with, endorsed
+by, or sponsored by** GitHub, Microsoft, Anthropic, or Google. "GitHub Copilot,"
+"Claude" / "Claude Code," and "Gemini" are trademarks of their respective owners
+and are referenced here only to indicate compatibility.
+
+## Your responsibility
+You are responsible for ensuring your use of this template complies with any
+**applicable laws** and your **employer's policies** (including outside-activity,
+intellectual-property, and open-source policies). Only commit content and images
+you have the right to share.

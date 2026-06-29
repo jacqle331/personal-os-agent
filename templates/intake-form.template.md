@@ -31,3 +31,9 @@ Keep this file **local** if it contains anything sensitive — see `SECURITY-PRI
 
 ## Storage
 - Backup/sync path: {{BACKUP_PATH}}
+
+## My recurring tasks (so my agents can help)
+List what you do regularly, then map each to an agent. See `docs/USE-CASES.md`.
+- Daily: {{DAILY_TASKS}}
+- Weekly: {{WEEKLY_TASKS}}
+- Monthly: {{MONTHLY_TASKS}}

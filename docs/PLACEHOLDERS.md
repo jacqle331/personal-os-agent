@@ -61,3 +61,6 @@ when you copy templates into your real working files.
 | `{{COMMUNICATION_PREFERENCES}}` | How you like to communicate | Direct, no fluff |
 | `{{BOUNDARIES}}` | Off-limits topics | None / specify |
 | `{{BACKUP_PATH}}` | Sync/backup location | OneDrive\PersonalOS |
+| `{{DAILY_TASKS}}` | Things you do every day | School drop-off, inbox triage |
+| `{{WEEKLY_TASKS}}` | Things you do weekly | Meal plan, bill review |
+| `{{MONTHLY_TASKS}}` | Things you do monthly | Budget review, subscriptions audit |
